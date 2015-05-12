@@ -4,13 +4,10 @@
 # TEAM
 
 	Carlos Alberto Rodriguez Behning
-
-# THANKS
-
-	Team of HTML5 Boilerplate 
-	Nando Vieira of HOWTO 
+	Pau Villier
+	Hector Jensen
 
 # TECHNOLOGY COLOPHON
 
 	HTML5, CSS3
-	jQuery, Modernizr
+	Ruby, Heroku
