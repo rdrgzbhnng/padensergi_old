@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+	Carlos Alberto Rodriguez Behning
+
+# THANKS
+
+	Team of HTML5 Boilerplate 
+	Nando Vieira of HOWTO 
+
+# TECHNOLOGY COLOPHON
+
+	HTML5, CSS3
+	jQuery, Modernizr
