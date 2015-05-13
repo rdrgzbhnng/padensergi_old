@@ -9,11 +9,13 @@ body {
 
 h1 {
 	font-size: 3em;
+	text-align: center;
 }
 
 h2, h3, h4, h5 {
 	font-family: 'Playfair Display', serif;
 	font-weight: normal;
+	text-align: center;
 }
 
 h2 {
@@ -41,10 +43,20 @@ h5 {
 
 p {
 	font-size: 1.5em;
+	text-align: center;
 }
 
-p a {
+p a,
+p a:hover,
+p a:link,
+p a:visited,
+p a:active {
 	font-weight: bold;
+	color: #007da7;
+}
+
+p a:hover {
+	text-decoration: none;
 }
 
 .verkami {
@@ -52,12 +64,20 @@ p a {
 	padding: 10px;
 	border-radius: 10px;
 	font-size: 58px;
-	display: inline-block;
-	margin: 10px 0;
+	display: block;
+	margin: 30px auto;
+	width: 300px;
 }
 
 .verkami img {
 	max-width: 200px;
+}
+
+.verkami a {
+	text-align: center;
+	margin: auto;
+	width: 280px;
+	display: block;
 }
 
 div {
